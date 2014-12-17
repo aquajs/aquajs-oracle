@@ -31,7 +31,9 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "nodeunit": "~>0.8.0"
+    "nodeunit": "~>0.8.0",
+    "oracle":"latest",
+    "generic-pool":"latest",
   },
   "main": "./index.js",
   "gypfile": true,

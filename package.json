@@ -29,12 +29,13 @@
     "type": "git",
     "url": "git://github.com:equinix/gse-common.git"
   },
-  "dependencies": {},
-  "devDependencies": {
-    "nodeunit": "~>0.8.0",
+  "dependencies": {
     "oracle":"latest",
     "generic-pool":"latest",
     "verror":"latest"
+  },
+  "devDependencies": {
+    "nodeunit": "~>0.8.0"
   },
   "main": "./index.js",
   "gypfile": true,

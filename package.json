@@ -1,5 +1,5 @@
 {
-  "name": "@aqua/aquajs-oracle",
+  "name": "aquajs-oracle",
   "description": "Oracle database connection pool",
   "keywords": [
     "database",

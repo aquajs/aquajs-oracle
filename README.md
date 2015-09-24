@@ -26,7 +26,7 @@ NLS_LANG=.UTF8 # Optional, but required to support international characters
 * Create symlinks for libclntsh and libocci in the Instant Client directory (see INSTALL.md)
 * (Linux) Install libaio
 * Configure the dynamic library path on your platform to include $OCI_LIB_DIR (see INSTALL.md)
-* `npm install oracle` to get the latest from npmjs.org
+* `npm install aquajs-oracle` to get the latest from npmjs.org
 
 ### Default configuration settings
 

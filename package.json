@@ -4,7 +4,7 @@
   "keywords": [
     "aqua api microservice"
   ],
-  "version": "0.2.4",
+  "version": "0.2.5",
   "main": "./index.js",
   "repository": {
     "type": "git",

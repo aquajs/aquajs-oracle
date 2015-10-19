@@ -112,3 +112,10 @@ Path=...;c:\instantclient_12_1\vc10;c:\instantclient_12_1
 ```
 
 **Please make sure c:\instantclient_12_1\vc10 comes before c:\instantclient_12_1**
+
+
+now install aquajs-oracle to get the latest version from npmjs.org
+
+npm install aquajs-oracle
+
+

@@ -14,8 +14,8 @@ Windows 7+
 * Prerequisites:
   * Python 2.7 (*not* v3.x), used by node-gyp  -- optional
   * C++ Compiler toolchain (GCC, Visual Studio or similar)  --optional
-  * 
-* Download the latest Oracle Instant Client Basic and SDK, and extract to the same directory.
+  
+* Download the latest Oracle Instant Client Basic and SDK, and extract to the same directory from the below url
 * oracle client download : http://www.oracle.com/technetwork/database/features/instant-client/index-097480.html
 * oracle client download UNIX : http://www.oracle.com/technetwork/topics/linuxx86-64soft-092277.html
 * Set environment variables:

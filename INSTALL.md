@@ -2,7 +2,8 @@
 
 You need to download and install [Oracle instant client](http://www.oracle.com/technetwork/database/features/instant-client/index-097480.html) from following links:
 
-http://www.oracle.com/technetwork/database/features/instant-client/index-097480.html
+* oracle client download : http://www.oracle.com/technetwork/database/features/instant-client/index-097480.html
+* oracle client download UNIX : http://www.oracle.com/technetwork/topics/linuxx86-64soft-092277.html
 
 1. Instant Client Package - Basic or Basic Lite: All files required to run OCI, OCCI, and JDBC-OCI applications
 2. Instant Client Package - SDK: Additional header files and an example makefile for developing Oracle applications with Instant Client
@@ -26,6 +27,8 @@ On MacOS or Linux:
 1. Set up the following environment variables
 
 MacOS/Linux:
+
+open ~/.bashrc and add the below lines and source it using source ~/.bashrc
 
 ```bash
 export OCI_HOME=<directory of Oracle instant client>

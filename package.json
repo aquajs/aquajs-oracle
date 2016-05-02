@@ -17,13 +17,23 @@
 ],
     "license": "ISC",
     "dependencies": {
-    "strong-oracle":"^1.6.4",
-    "generic-pool":"^2.2.0",
-    "json-stringify-safe":"^5.0.1",
-    "verror":"^1.6.0"
+    "strong-oracle":"1.6.4",
+    "generic-pool":"2.2.0",
+    "json-stringify-safe":"5.0.1",
+    "verror":"1.6.0"
    },
+    "developers": [
+    "Venkat Rangasamy <vrangasamy@equinix.com>",
+    "Aswini Atibudhi <aatibudhi@equinix.com>",
+    "Tony Pujals <tpujals@equinix.com> (http://twitter.com/subfuzion)",
+    "Peter Svetlichny <psvetlichny@equinix.com> (http://twitter.com/p_svetlichny)",
+    "Uma More <umore@equinix.com>",
+    "Elcina Tuscano <etuscano@equinix.com>",
+    "Chakradhar Jonagam <cjonagam@equinix.com>",
+    "Namratha Ambekar <nambekar@equinix.com>"
+  ],
     "devDependencies": {
-    "nodeunit": "~>0.8.0"
+    "nodeunit": "0.8.0"
    },
     "publishConfig": {
     "registry": "http://nexus.corp.equinix.com/nexus/content/repositories/Equinix-AquaJS-Release/"

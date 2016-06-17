@@ -17,8 +17,8 @@
   ],
   "license": "ISC",
   "dependencies": {
-    "strong-oracle":"1.6.4",
-    "generic-pool":"2.4.2",
+    "strong-oracle":"1.9.0",
+    "generic-pool":"2.2.0",
     "json-stringify-safe":"5.0.1",
     "verror":"1.6.0"
   },
